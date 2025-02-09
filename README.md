@@ -1,6 +1,6 @@
 # Mail0.io 🚀
 
-An Open-Source Gmail Alternative for the Future of Email
+An open-source Gmail Alternative for the Future of Email
 
 ## What is Mail0.io?
 
@@ -97,6 +97,18 @@ Run the development server:
 
 ```bash
 pnpm dev
+```
+
+--- OR ---
+
+```bash
+npm dev
+```
+
+--- OR ---
+
+```bash
+yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
